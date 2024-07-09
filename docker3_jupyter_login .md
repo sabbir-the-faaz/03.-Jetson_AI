@@ -4,3 +4,4 @@
 ```
 # Enter the password : dlinano
 ![image](https://github.com/sabbir-the-faaz/03.-Jetson_AI-Swaping-memory-/assets/161277809/35339e6f-eac4-4ebb-8268-3f545f36901e)
+![image](https://github.com/sabbir-the-faaz/03.-Jetson_AI-Swaping-memory-/assets/161277809/86252a54-3cde-4ffd-9d11-61d07a2c6451)
