@@ -15,3 +15,4 @@ Set the correct permissions on the swap file.
 Set up the swap area on the file.
 Enable the swap file immediately.
 Add the swap file to /etc/fstab so it is enabled at boot time.
+![image](https://github.com/sabbir-the-faaz/03.-Jetson_AI-Swaping-memory-/assets/161277809/4446c689-e85d-4d5d-a32f-4640517c6e9b)
