@@ -1,4 +1,4 @@
-#For jetpack 4.6.1 the followings need to be done. Chnage your tag based on your jetpack 
+# For jetpack 4.6.1 the followings need to be done. Chnage your tag based on your jetpack 
 ```
 sudo docker pull nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1
 ```
