@@ -4,3 +4,4 @@ sudo chmod 600 /mnt/8GB.swap
 sudo mkswap /mnt/8GB.swap
 sudo swapon /mnt/8GB.swap
 echo '/mnt/8GB.swap swap swap defaults 0 0' | sudo tee -a /etc/fstab
+![image](https://github.com/sabbir-the-faaz/03.-Jetson_AI-Swaping-memory-/assets/161277809/c08d53c4-9a05-44d3-a325-7cb64278bae6)
