@@ -19,7 +19,7 @@ nvcr.io/nvidia/dli/dli-nano-ai:v2.0.2-r32.7.1" > docker_dli_run.sh
 ```
 chmod +x docker_dli_run.sh
 ```
-Run the Script: Execute the script to start the Docker container.
+Run the Script: Execute the script to start the Docker container. Before runnning make sure that you have inserted the web camera 
 ```
 ./docker_dli_run.sh
 ```
